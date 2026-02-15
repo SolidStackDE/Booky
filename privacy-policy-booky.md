@@ -1,6 +1,6 @@
 # Booky Datenschutzerklärung / Privacy Policy
 
-Stand / Last updated: 13. Februar 2026 / February 13, 2026
+Stand / Last updated: 15. Februar 2026 / February 15, 2026
 
 ## Deutsch
 
@@ -14,8 +14,8 @@ Bucheinträge (z.B. Titel, Autor, Kategorie, Notizen, Gelesen/Verkauft-Status, B
 #### 2.2 Export und Import
 Wenn du Export/Import nutzt, erstellt bzw. liest Booky Transferdateien, die du auswählst. Exportdateien können je nach Auswahl Cover enthalten.
 
-#### 2.3 ISBN-Abfrage
-Wenn du Buchdaten per ISBN lädst, wird die ISBN an die Google Books API gesendet. Verbindungsdaten (z.B. IP-Adresse) können dabei durch Google in eigener Verantwortung verarbeitet werden.
+#### 2.3 ISBN- und Titelsuche
+Wenn du Buchdaten per ISBN oder Titelsuche lädst, wird die eingegebene ISBN bzw. Suchanfrage an die Google Books API gesendet. Verbindungsdaten (z.B. IP-Adresse) können dabei durch Google in eigener Verantwortung verarbeitet werden.
 
 #### 2.4 Cover-Downloads
 Fehlende Cover können im Hintergrund aus verfügbaren Buchmetadaten-Quellen (z.B. Google Books/Open Library) geladen und lokal gespeichert werden.
@@ -30,7 +30,7 @@ Beim Senden von Feedback werden deine Nachricht und eine technische Senderkennun
 Beim Tippen auf den Spenden-Button wird PayPal geöffnet. Die Verarbeitung bei PayPal erfolgt nach den Datenschutzbestimmungen von PayPal.
 
 ### 3. Rechtsgrundlagen
-Die Verarbeitung erfolgt auf Grundlage deiner Anfrage bzw. Einwilligung für optionale Funktionen (z.B. Kamerascan, ISBN-Abfrage, Feedback, Spendenlink).
+Die Verarbeitung erfolgt auf Grundlage deiner Anfrage bzw. Einwilligung für optionale Funktionen (z.B. Kamerascan, ISBN-Abfrage, Titelsuche, Feedback, Spendenlink).
 
 ### 4. Empfänger
 Daten werden nur dann an Dritte übermittelt, wenn eine von dir genutzte Funktion das erfordert: Google (Books API), Open Library (Cover-Metadaten), FormSubmit (Feedback-Transport), PayPal (Spendenablauf).
@@ -56,8 +56,8 @@ Book entries (for example title, author, category, notes, read/sold status, rati
 #### 2.2 Export and import
 If you use export/import, Booky creates or reads transfer files selected by you. Export files can include covers, depending on your choice.
 
-#### 2.3 ISBN lookup
-When you load book data via ISBN, the ISBN is sent to the Google Books API. Request metadata (for example IP address) may be processed by Google under Google's own responsibility.
+#### 2.3 ISBN and title lookup
+When you load book data via ISBN or title search, the entered ISBN or title query is sent to the Google Books API. Request metadata (for example IP address) may be processed by Google under Google's own responsibility.
 
 #### 2.4 Cover downloads
 Missing covers can be downloaded in the background from available book metadata sources (for example Google Books/Open Library) and saved locally.
@@ -72,7 +72,7 @@ When you send feedback, your message and a technical sender identifier are trans
 If you tap the donation button, PayPal is opened. Processing on PayPal is governed by PayPal's privacy policy.
 
 ### 3. Legal bases
-Processing is based on your request and consent for optional features (for example camera scan, ISBN lookup, feedback, donation link).
+Processing is based on your request and consent for optional features (for example camera scan, ISBN lookup, title search, feedback, donation link).
 
 ### 4. Recipients
 Data is shared with third parties only when required by a feature you use: Google (Books API), Open Library (cover metadata), FormSubmit (feedback transport), PayPal (donation flow).
